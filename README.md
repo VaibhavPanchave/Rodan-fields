@@ -19,12 +19,12 @@ Javascript - (DOM Manipulation, Local Storage)
 
 
 Learning :-
-We all became proficient in reading the code of team members.
+I became proficient in reading the code.
 
-Our code writing style became cleaner as we had to think while writing code that other team members will be reading.
+My code writing style became cleaner.
 
-We had to learn about many CSS properties that we didn't know before.
+I learn about many CSS properties that I didn't know before.
 
-Our skills in JavaScript and DOM manipulation became better.
+My skills in JavaScript and DOM manipulation became better.
 
-We all learned how to plan a project and execute that.
+I learned how to plan a project and execute that.
